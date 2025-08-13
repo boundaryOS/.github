@@ -207,16 +207,6 @@ BoundaryOS is dual-licensed:
 - **Open Source**: Apache License 2.0 for community use
 - **Commercial**: Enterprise license for production deployments with SLA
 
----
-
-<div align="center">
-
-**Ready to build software that never breaks?**
-
-[Get Started](https://github.com/boundaryOS/boundary-os#quick-start) • [Join Discord](https://discord.gg/boundary) • [Try Playground](https://playground.boundary.dev)
-
----
-
 *Built for developers who believe software should adapt to change, not break from it.*
 
 </div>
